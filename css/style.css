@@ -13,7 +13,7 @@
 }
 
 *::selection{
-  background:var(--orange);
+  background:deepskyblue;
   color:#fff;
 }
 
